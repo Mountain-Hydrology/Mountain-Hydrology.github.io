@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>subgrid | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/tag/subgrid/</link>
+      <atom:link href="https://mountain-hydrology.github.io/tag/subgrid/index.xml" rel="self" type="application/rss+xml" />
+    <description>subgrid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>subgrid</title>
+      <link>https://mountain-hydrology.github.io/tag/subgrid/</link>
+    </image>
+    
+    <item>
+      <title>Single-Column Validation of a Snow Subgrid Parameterization in the Rapid Update Cycle Land-Surface Model (RUC LSM)</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

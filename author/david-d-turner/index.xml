@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David D Turner | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/david-d-turner/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/david-d-turner/index.xml" rel="self" type="application/rss+xml" />
+    <description>David D Turner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>David D Turner</title>
+      <link>https://mountain-hydrology.github.io/author/david-d-turner/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of the Near-Surface Variables in the HRRR Weather Model Using Observations from the ARM SGP Site</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
+      <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/benjamin-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the afternoon-to-evening transition</title>
+      <link>https://mountain-hydrology.github.io/project/arm/</link>
+      <pubDate>Sun, 01 Nov 2020 11:25:57 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/arm/</guid>
+      <description>&lt;p&gt;This project aims to improve our understanding of the complex land-atmosphere
+processes and their interaction
+during the afternoon to evening transition (AET). In particular, we propose to use a
+combination land surface
+and profiling observations together with large eddy simulation (LES) and mesoscale model
+simulations to better understand
+how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

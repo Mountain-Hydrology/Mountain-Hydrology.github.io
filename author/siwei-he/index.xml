@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siwei He | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/siwei-he/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/siwei-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siwei He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>Siwei He</title>
+      <link>https://mountain-hydrology.github.io/author/siwei-he/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of the Near-Surface Variables in the HRRR Weather Model Using Observations from the ARM SGP Site</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
+      <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/benjamin-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Snowdrift Modeling for an Open Natural Terrain using a Physically-based Linear Particle Distribution Equation</title>
+      <link>https://mountain-hydrology.github.io/publication/ohara-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/ohara-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Column Validation of a Snow Subgrid Parameterization in the Rapid Update Cycle Land-Surface Model (RUC LSM)</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scale-aware parameterization for estimating subgrid variability of downward solar radiation using high-resolution digital elevation model data</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-b/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding subgrid variability of snow depth at 1-km scale using Lidar measurements</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Subgrid Variability of Snow Depth Using the Fokker-Planck Equation Approach</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling snow sub-grid variability model into a land-surface model</title>
+      <link>https://mountain-hydrology.github.io/project/nrc/</link>
+      <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
+      <description>&lt;p&gt;This project aims to solve the spatial variability of snow depth
+problem in the Earth system modeling. A snow model for representing sub-grid
+variability of snow depth will be coupled into the Rapid Update Cycle Land
+Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New Formula for Estimating the Threshold Wind Speed for Snow Movement</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADHydro Introduction and Workflow</title>
+      <link>https://mountain-hydrology.github.io/publication/chang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/chang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of coarse and high-resolution hydrologic modeling in mountainous area</title>
+      <link>https://mountain-hydrology.github.io/publication/garousi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/garousi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy evaluation of two precipitation datasets over upper reach of Heihe River Basin, north-western China</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

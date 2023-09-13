@@ -7,7 +7,7 @@
     <description>Mountain Hydrology Research Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mountain-hydrology.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
       <title>Mountain Hydrology Research Group</title>
       <link>https://mountain-hydrology.github.io/</link>
     </image>
@@ -28,6 +28,73 @@
     </item>
     
     <item>
+      <title>Mountain Hydrology Research</title>
+      <link>https://mountain-hydrology.github.io/post/mountain-hydrology-research-group/</link>
+      <pubDate>Sat, 02 Sep 2023 15:10:54 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/post/mountain-hydrology-research-group/</guid>
+      <description>&lt;p&gt;Our Mountain Hydrology Research Group has been established in August 2023 at
+Montana State University.&lt;/p&gt;
+&lt;p&gt;Mountains occupy approximately 25% of the Earth’s land area, and more than 50% of
+the Earth’s freshwater comes from mountain meltwater and runoff. As a result,
+mountains and highlands are often referred to as the world’s natural “water towers.”
+Despite this, our understanding of mountain hydrology is still very limited. Across
+the globe, nearly every region grapples with water-related challenges of varying degrees.
+Wide-spread drought,
+increased populations, flashier floods, and environmental requirements all strain
+existing water resources and their management. For example, the Colorado River basin has
+been overdrafted for decades.
+Its major reservoirs, &lt;a href=&#34;https://www.usbr.gov/lc/region/g4000/lakemead_line.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lake Mead&lt;/a&gt;
+and &lt;a href=&#34;https://arachnoid.com/NaturalResources/powell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lake Powell&lt;/a&gt;, have been
+steadily declining, threatening 40 million people in the West with a water
+supply crisis [&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;].
+Following the crisis, a substantial number of discussions and research initiatives
+have been undertaken regarding the Colorado River basin [&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;#3&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;#4&#34;&gt;4&lt;/a&gt;].&lt;/p&gt;
+&lt;p&gt;The Colorado River is not an exception in this regard. While Canada is the world’s third
+most water-abundant nation, the Prairies - Alberta, Saskatchewan, and Manitoba - are prone
+to both flooding and drought [&lt;a href=&#34;#5&#34;&gt;5&lt;/a&gt;, &lt;a href=&#34;#6&#34;&gt;6&lt;/a&gt;]. Their water supply depends on how much
+snow collects in the Rockies – known as the region’s “water towers” - and how quickly it
+runs off as it melts. Warmer temperatures are causing mountain snow and ice to melt earlier,
+increasing the likelihood of summertime water shortages. For example, record high
+temperatures and a record fire season have been hitting Canada at the same time in the
+summer of 2023 [&lt;a href=&#34;#7&#34;&gt;7&lt;/a&gt;]. The combination is forcing Canadians to re-engineer their relationship
+with wildfires and plan for a future where more wildfires are part of the new reality.
+Nevertheless, the precise repercussions of this combination on water resources remain
+inadequately understood.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;2-m-temperature.png&#34; width=&#34;500&#34;&gt;
+&lt;figcaption&gt;The map above shows the difference in air temperature between 
+May 15, 2023—one of the hottest days in the heatwave—and the 2014-2022 mean 
+for that date. The map is derived from the Goddard Earth Observing System (GEOS) 
+model and depicts air temperatures at 2 meters (about 6.5 feet) above the ground.
+Source: Lauren Dauphin, using GEOS-5 data from the 
+Global Modeling and Assimilation Office at NASA GSFC.
+&lt;/figure&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;a id=&#34;1&#34;&gt;[1]&lt;/a&gt;
+Bland, Alastair (May 22, 2023). Colorado River deal: What does it mean for California? &lt;a href=&#34;https://calmatters.org/environment/water/2023/05/colorado-river-states-agreement/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://calmatters.org/environment/water/2023/05/colorado-river-states-agreement/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;2&#34;&gt;[2]&lt;/a&gt;
+Ge, S., J. Silverstein, J. Eklund, P. Limerick, and D. Stewart (2023), Fixing the flawed Colorado River Compact, Eos, 104, &lt;a href=&#34;https://doi.org/10.1029/2023EO230232&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2023EO230232&lt;/a&gt;. Published on 16 June 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;3&#34;&gt;[3]&lt;/a&gt;
+Palmer, J. (2023), Biden administration considers unprecedented solution to Colorado River crisis, Eos, 104, &lt;a href=&#34;https://doi.org/10.1029/2023EO230151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2023EO230151&lt;/a&gt;. Published on 12 April 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;4&#34;&gt;[4]&lt;/a&gt;
+Palmer, J. (2023), Agriculture 3.0: Preparing for a drier future in the Colorado River Basin, Eos, 104, &lt;a href=&#34;https://doi.org/10.1029/2023EO230247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2023EO230247&lt;/a&gt;. Published on 5 July 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;5&#34;&gt;[5]&lt;/a&gt;
+Canadian Water Network. (April 13, 2023). Does Canada need to worry about climate and water scarcity? &lt;a href=&#34;https://cwn-rce.ca/2023/04/13/does-canada-need-to-worry-about-climate-and-water-scarcity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cwn-rce.ca/2023/04/13/does-canada-need-to-worry-about-climate-and-water-scarcity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;6&#34;&gt;[6]&lt;/a&gt;
+Nickel, Rod and Lewis, Jeff (September 2, 2021). Rocky Mountain dry: Canada&amp;rsquo;s waning water supply sows division in farm belt &lt;a href=&#34;https://www.reuters.com/world/americas/rocky-mountain-dry-canadas-waning-water-supply-sows-division-farm-belt-2021-09-02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.reuters.com/world/americas/rocky-mountain-dry-canadas-waning-water-supply-sows-division-farm-belt-2021-09-02/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;7&#34;&gt;[7]&lt;/a&gt;
+Clifford, Catherine (July 13, 2023). Record heat meets record wildfires in Canada, and scientists say this is the new reality &lt;a href=&#34;https://cnb.cx/44rE1qW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cnb.cx/44rE1qW&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Near-Surface Variables in the HRRR Weather Model Using Observations from the ARM SGP Site</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://mountain-hydrology.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -44,69 +111,129 @@
     </item>
     
     <item>
-      <title>Tour</title>
-      <link>https://mountain-hydrology.github.io/tour/</link>
+      <title>Welcome</title>
+      <link>https://mountain-hydrology.github.io/welcome/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/tour/</guid>
+      <guid>https://mountain-hydrology.github.io/welcome/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://mountain-hydrology.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
+      <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/benjamin-2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://mountain-hydrology.github.io/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Spatial Snowdrift Modeling for an Open Natural Terrain using a Physically-based Linear Particle Distribution Equation</title>
+      <link>https://mountain-hydrology.github.io/publication/ohara-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/ohara-2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://mountain-hydrology.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>Single-Column Validation of a Snow Subgrid Parameterization in the Rapid Update Cycle Land-Surface Model (RUC LSM)</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the afternoon-to-evening transition</title>
+      <link>https://mountain-hydrology.github.io/project/arm/</link>
+      <pubDate>Sun, 01 Nov 2020 11:25:57 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/arm/</guid>
+      <description>&lt;p&gt;This project aims to improve our understanding of the complex land-atmosphere
+processes and their interaction
+during the afternoon to evening transition (AET). In particular, we propose to use a
+combination land surface
+and profiling observations together with large eddy simulation (LES) and mesoscale model
+simulations to better understand
+how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://mountain-hydrology.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>A scale-aware parameterization for estimating subgrid variability of downward solar radiation using high-resolution digital elevation model data</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-b/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding subgrid variability of snow depth at 1-km scale using Lidar measurements</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Subgrid Variability of Snow Depth Using the Fokker-Planck Equation Approach</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling snow sub-grid variability model into a land-surface model</title>
+      <link>https://mountain-hydrology.github.io/project/nrc/</link>
+      <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
+      <description>&lt;p&gt;This project aims to solve the spatial variability of snow depth
+problem in the Earth system modeling. A snow model for representing sub-grid
+variability of snow depth will be coupled into the Rapid Update Cycle Land
+Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://mountain-hydrology.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>A New Formula for Estimating the Threshold Wind Speed for Snow Movement</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADHydro Introduction and Workflow</title>
+      <link>https://mountain-hydrology.github.io/publication/chang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/chang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of coarse and high-resolution hydrologic modeling in mountainous area</title>
+      <link>https://mountain-hydrology.github.io/publication/garousi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/garousi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy evaluation of two precipitation datasets over upper reach of Heihe River Basin, north-western China</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG)</title>
+      <link>https://mountain-hydrology.github.io/project/wycehg/</link>
+      <pubDate>Sun, 01 Jul 2012 10:49:25 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/wycehg/</guid>
+      <description>&lt;p&gt;The Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG) was established
+in July 2012 with a NSF grant. The goal of WyCEHG is to establish a center of
+excellence in environmental hydrology and hydrogeophysics. WyCEHG uses surface and
+subsurface hydrological models to link surface and groundwater.&lt;/p&gt;
 </description>
     </item>
     

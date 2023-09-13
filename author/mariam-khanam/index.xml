@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariam Khanam | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/mariam-khanam/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/mariam-khanam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariam Khanam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>Mariam Khanam</title>
+      <link>https://mountain-hydrology.github.io/author/mariam-khanam/</link>
+    </image>
+    
+    <item>
+      <title>ADHydro Introduction and Workflow</title>
+      <link>https://mountain-hydrology.github.io/publication/chang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/chang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

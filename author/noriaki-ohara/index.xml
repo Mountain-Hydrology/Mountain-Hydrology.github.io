@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noriaki Ohara | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/noriaki-ohara/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/noriaki-ohara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noriaki Ohara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>Noriaki Ohara</title>
+      <link>https://mountain-hydrology.github.io/author/noriaki-ohara/</link>
+    </image>
+    
+    <item>
+      <title>Spatial Snowdrift Modeling for an Open Natural Terrain using a Physically-based Linear Particle Distribution Equation</title>
+      <link>https://mountain-hydrology.github.io/publication/ohara-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/ohara-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding subgrid variability of snow depth at 1-km scale using Lidar measurements</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Subgrid Variability of Snow Depth Using the Fokker-Planck Equation Approach</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Formula for Estimating the Threshold Wind Speed for Snow Movement</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

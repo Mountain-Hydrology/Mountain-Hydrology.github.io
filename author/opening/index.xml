@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opening | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/opening/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/opening/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opening</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mountain-hydrology.github.io/author/opening/avatar_hu30a8fbfef9015cb7d1592acc6fca14dc_43398_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Opening</title>
+      <link>https://mountain-hydrology.github.io/author/opening/</link>
+    </image>
+    
+  </channel>
+</rss>

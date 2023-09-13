@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YuTing Hou | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/yuting-hou/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/yuting-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>YuTing Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>YuTing Hou</title>
+      <link>https://mountain-hydrology.github.io/author/yuting-hou/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy evaluation of two precipitation datasets over upper reach of Heihe River Basin, north-western China</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

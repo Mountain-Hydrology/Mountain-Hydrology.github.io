@@ -5,48 +5,99 @@
     <link>https://mountain-hydrology.github.io/publication/</link>
       <atom:link href="https://mountain-hydrology.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mountain-hydrology.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://mountain-hydrology.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://mountain-hydrology.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Evaluation of the Near-Surface Variables in the HRRR Weather Model Using Observations from the ARM SGP Site</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2023/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://mountain-hydrology.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
+      <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/benjamin-2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://mountain-hydrology.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mountain-hydrology.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Spatial Snowdrift Modeling for an Open Natural Terrain using a Physically-based Linear Particle Distribution Equation</title>
+      <link>https://mountain-hydrology.github.io/publication/ohara-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/ohara-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Column Validation of a Snow Subgrid Parameterization in the Rapid Update Cycle Land-Surface Model (RUC LSM)</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scale-aware parameterization for estimating subgrid variability of downward solar radiation using high-resolution digital elevation model data</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-b/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding subgrid variability of snow depth at 1-km scale using Lidar measurements</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Subgrid Variability of Snow Depth Using the Fokker-Planck Equation Approach</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Formula for Estimating the Threshold Wind Speed for Snow Movement</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADHydro Introduction and Workflow</title>
+      <link>https://mountain-hydrology.github.io/publication/chang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/chang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of coarse and high-resolution hydrologic modeling in mountainous area</title>
+      <link>https://mountain-hydrology.github.io/publication/garousi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/garousi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy evaluation of two precipitation datasets over upper reach of Heihe River Basin, north-western China</title>
+      <link>https://mountain-hydrology.github.io/publication/he-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mountain-hydrology.github.io/publication/he-2015-a/</guid>
+      <description></description>
     </item>
     
   </channel>

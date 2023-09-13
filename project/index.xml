@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/project/</link>
+      <atom:link href="https://mountain-hydrology.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 11:25:57 -0600</lastBuildDate>
+    <image>
+      <url>https://mountain-hydrology.github.io/media/icon_hu5d4c7442664073cb1a48933bbcbba29d_19758_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://mountain-hydrology.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing the afternoon-to-evening transition</title>
+      <link>https://mountain-hydrology.github.io/project/arm/</link>
+      <pubDate>Sun, 01 Nov 2020 11:25:57 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/arm/</guid>
+      <description>&lt;p&gt;This project aims to improve our understanding of the complex land-atmosphere
+processes and their interaction
+during the afternoon to evening transition (AET). In particular, we propose to use a
+combination land surface
+and profiling observations together with large eddy simulation (LES) and mesoscale model
+simulations to better understand
+how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coupling snow sub-grid variability model into a land-surface model</title>
+      <link>https://mountain-hydrology.github.io/project/nrc/</link>
+      <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
+      <description>&lt;p&gt;This project aims to solve the spatial variability of snow depth
+problem in the Earth system modeling. A snow model for representing sub-grid
+variability of snow depth will be coupled into the Rapid Update Cycle Land
+Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG)</title>
+      <link>https://mountain-hydrology.github.io/project/wycehg/</link>
+      <pubDate>Sun, 01 Jul 2012 10:49:25 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/wycehg/</guid>
+      <description>&lt;p&gt;The Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG) was established
+in July 2012 with a NSF grant. The goal of WyCEHG is to establish a center of
+excellence in environmental hydrology and hydrogeophysics. WyCEHG uses surface and
+subsurface hydrological models to link surface and groundwater.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
