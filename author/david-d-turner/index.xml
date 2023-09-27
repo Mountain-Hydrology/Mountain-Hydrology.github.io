@@ -31,15 +31,42 @@
     <item>
       <title>Characterizing the afternoon-to-evening transition</title>
       <link>https://mountain-hydrology.github.io/project/arm/</link>
-      <pubDate>Sun, 01 Nov 2020 11:25:57 -0600</pubDate>
+      <pubDate>Sun, 01 Mar 2020 11:25:57 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/arm/</guid>
-      <description>&lt;p&gt;This project aims to improve our understanding of the complex land-atmosphere
-processes and their interaction
-during the afternoon to evening transition (AET). In particular, we propose to use a
-combination land surface
-and profiling observations together with large eddy simulation (LES) and mesoscale model
-simulations to better understand
-how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;David D Turner&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2020-03 to 2022-07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This project aimed to improve our understanding of the complex land-atmosphere processes
+and their interaction during the afternoon to evening transition (AET).
+In particular, we proposed to use a combination of land surface and profiling
+observations together and mesoscale model simulations to better understand how the
+surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+&lt;p&gt;Through this project, the performance of version 4 of the NOAA High-Resolution Rapid
+Refresh (HRRR) numerical weather prediction model for near-surface variables,
+including wind, humidity, temperature, surface latent and sensible fluxes, and
+longwave and shortwave radiative fluxes, was examined over the Atmospheric Radiation
+Measurement (ARM) Southern Great Plains (SGP) region.&lt;/p&gt;
+&lt;p&gt;This project also investigated the processes leading to the water vapor increase and
+the impacts of the land cover and horizontal advection on the water vapor increase
+through a single column model. This study also found that land cover can affect the
+onset of water vapor increase since different land covers may have different Bowen ratios.
+Water vapor increases earlier for land cover conditions that have small Bowen ratio,
+relative to larger Bowen ratio values.&lt;/p&gt;
 </description>
     </item>
     

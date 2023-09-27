@@ -21,6 +21,37 @@
     </item>
     
     <item>
+      <title>Quantify the impact of wildfire on the land-surface biogeophysical properties and weather prediction</title>
+      <link>https://mountain-hydrology.github.io/project/wildfire/</link>
+      <pubDate>Mon, 01 Aug 2022 11:25:57 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/wildfire/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;Siwei He&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2022-08 to 2023-01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;First, the impact of wildfires on the land-surface biogeophysical properties, such as soil
+hydraulic conductivity and vegetation type was identified and parameterized.
+Then, the impact of post-wildfire conditions on weather forecasting was investigated&lt;br&gt;
+by considering
+post-wildfire land-surface conditions in the Weather Research and Forecasting (WRF) model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
       <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -73,10 +104,28 @@
       <link>https://mountain-hydrology.github.io/project/nrc/</link>
       <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
-      <description>&lt;p&gt;This project aims to solve the spatial variability of snow depth
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;Siwei He&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2018-08 to 2020-02&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This project aimed to solve the spatial variability of snow depth
 problem in the Earth system modeling. A snow model for representing sub-grid
-variability of snow depth will be coupled into the Rapid Update Cycle Land
-Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
+variability of snow depth was coupled into the Rapid Update Cycle Land
+Surface Model (RUC LSM), and its impacts on the LSM was evaluated.&lt;/p&gt;
 </description>
     </item>
     

@@ -119,6 +119,37 @@ Clifford, Catherine (July 13, 2023). Record heat meets record wildfires in Canad
     </item>
     
     <item>
+      <title>Quantify the impact of wildfire on the land-surface biogeophysical properties and weather prediction</title>
+      <link>https://mountain-hydrology.github.io/project/wildfire/</link>
+      <pubDate>Mon, 01 Aug 2022 11:25:57 -0600</pubDate>
+      <guid>https://mountain-hydrology.github.io/project/wildfire/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;Siwei He&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2022-08 to 2023-01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;First, the impact of wildfires on the land-surface biogeophysical properties, such as soil
+hydraulic conductivity and vegetation type was identified and parameterized.
+Then, the impact of post-wildfire conditions on weather forecasting was investigated&lt;br&gt;
+by considering
+post-wildfire land-surface conditions in the Weather Research and Forecasting (WRF) model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Land–Snow Data Assimilation Including a Moderately Coupled Initialization Method Applied to NWP</title>
       <link>https://mountain-hydrology.github.io/publication/benjamin-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -145,15 +176,42 @@ Clifford, Catherine (July 13, 2023). Record heat meets record wildfires in Canad
     <item>
       <title>Characterizing the afternoon-to-evening transition</title>
       <link>https://mountain-hydrology.github.io/project/arm/</link>
-      <pubDate>Sun, 01 Nov 2020 11:25:57 -0600</pubDate>
+      <pubDate>Sun, 01 Mar 2020 11:25:57 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/arm/</guid>
-      <description>&lt;p&gt;This project aims to improve our understanding of the complex land-atmosphere
-processes and their interaction
-during the afternoon to evening transition (AET). In particular, we propose to use a
-combination land surface
-and profiling observations together with large eddy simulation (LES) and mesoscale model
-simulations to better understand
-how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;David D Turner&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2020-03 to 2022-07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This project aimed to improve our understanding of the complex land-atmosphere processes
+and their interaction during the afternoon to evening transition (AET).
+In particular, we proposed to use a combination of land surface and profiling
+observations together and mesoscale model simulations to better understand how the
+surface energy balance and lower atmosphere evolve during the AET.&lt;/p&gt;
+&lt;p&gt;Through this project, the performance of version 4 of the NOAA High-Resolution Rapid
+Refresh (HRRR) numerical weather prediction model for near-surface variables,
+including wind, humidity, temperature, surface latent and sensible fluxes, and
+longwave and shortwave radiative fluxes, was examined over the Atmospheric Radiation
+Measurement (ARM) Southern Great Plains (SGP) region.&lt;/p&gt;
+&lt;p&gt;This project also investigated the processes leading to the water vapor increase and
+the impacts of the land cover and horizontal advection on the water vapor increase
+through a single column model. This study also found that land cover can affect the
+onset of water vapor increase since different land covers may have different Bowen ratios.
+Water vapor increases earlier for land cover conditions that have small Bowen ratio,
+relative to larger Bowen ratio values.&lt;/p&gt;
 </description>
     </item>
     
@@ -186,10 +244,28 @@ how the surface energy balance and lower atmosphere evolve during the AET.&lt;/p
       <link>https://mountain-hydrology.github.io/project/nrc/</link>
       <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
-      <description>&lt;p&gt;This project aims to solve the spatial variability of snow depth
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;Siwei He&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2018-08 to 2020-02&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This project aimed to solve the spatial variability of snow depth
 problem in the Earth system modeling. A snow model for representing sub-grid
-variability of snow depth will be coupled into the Rapid Update Cycle Land
-Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
+variability of snow depth was coupled into the Rapid Update Cycle Land
+Surface Model (RUC LSM), and its impacts on the LSM was evaluated.&lt;/p&gt;
 </description>
     </item>
     
@@ -230,7 +306,25 @@ Surface Model (RUC LSM), and its impacts on RUC LSM will be evaluated.&lt;/p&gt;
       <link>https://mountain-hydrology.github.io/project/wycehg/</link>
       <pubDate>Sun, 01 Jul 2012 10:49:25 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/wycehg/</guid>
-      <description>&lt;p&gt;The Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG) was established
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PI&lt;/th&gt;
+&lt;th&gt;Steve Holbrook, Scott N Miller, Ginger Paige&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Period&lt;/td&gt;
+&lt;td&gt;2014-09 to 2017-12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG) was established
 in July 2012 with a NSF grant. The goal of WyCEHG is to establish a center of
 excellence in environmental hydrology and hydrogeophysics. WyCEHG uses surface and
 subsurface hydrological models to link surface and groundwater.&lt;/p&gt;
