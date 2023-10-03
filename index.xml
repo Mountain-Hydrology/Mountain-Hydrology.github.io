@@ -119,7 +119,7 @@ Clifford, Catherine (July 13, 2023). Record heat meets record wildfires in Canad
     </item>
     
     <item>
-      <title>Quantify post-fire impacts</title>
+      <title>Post-fire impacts on hydrological and land-surface processes</title>
       <link>https://mountain-hydrology.github.io/project/wildfire/</link>
       <pubDate>Mon, 01 Aug 2022 11:25:57 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/wildfire/</guid>
@@ -131,6 +131,10 @@ Clifford, Catherine (July 13, 2023). Record heat meets record wildfires in Canad
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;NOAA Global Systems Laboratory&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2022-08 to 2023-01&lt;/td&gt;
@@ -173,7 +177,7 @@ by considering post-wildfire land-surface conditions in the Weather Research and
     </item>
     
     <item>
-      <title>Characterizing the afternoon-to-evening transition</title>
+      <title>Characterizing atmospheric boundary layer transition during the afternoon-to-evening period</title>
       <link>https://mountain-hydrology.github.io/project/arm/</link>
       <pubDate>Sun, 01 Mar 2020 11:25:57 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/arm/</guid>
@@ -185,6 +189,10 @@ by considering post-wildfire land-surface conditions in the Weather Research and
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;NOAA Global Systems Laboratory&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2020-03 to 2022-07&lt;/td&gt;
@@ -239,7 +247,7 @@ relative to larger Bowen ratio values.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Coupling snow sub-grid variability model into a land-surface model</title>
+      <title>Considering snow spatial distribution sub-grid variability in land-surface models</title>
       <link>https://mountain-hydrology.github.io/project/nrc/</link>
       <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
@@ -251,6 +259,10 @@ relative to larger Bowen ratio values.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;National Academies of Sciences, Engineering, and Medicine&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2018-08 to 2020-02&lt;/td&gt;
@@ -314,6 +326,10 @@ Surface Model (RUC LSM), and its impacts on the LSM was evaluated.&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;University of Wyoming&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2014-09 to 2017-12&lt;/td&gt;
 &lt;/tr&gt;
@@ -324,8 +340,8 @@ Surface Model (RUC LSM), and its impacts on the LSM was evaluated.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;The Wyoming Center for Environmental Hydrology and Geophysics (WyCEHG) was established
-in July 2012 with a NSF grant. The goal of WyCEHG is to establish a center of
-excellence in environmental hydrology and hydrogeophysics. WyCEHG uses surface and
+in July 2012 with a NSF grant. The goal of WyCEHG was to establish a center of
+excellence in environmental hydrology and hydrogeophysics. WyCEHG useed surface and
 subsurface hydrological models to link surface and groundwater.&lt;/p&gt;
 </description>
     </item>

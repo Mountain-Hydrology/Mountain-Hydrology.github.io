@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Quantify post-fire impacts</title>
+      <title>Post-fire impacts on hydrological and land-surface processes</title>
       <link>https://mountain-hydrology.github.io/project/wildfire/</link>
       <pubDate>Mon, 01 Aug 2022 11:25:57 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/wildfire/</guid>
@@ -33,6 +33,10 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;NOAA Global Systems Laboratory&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2022-08 to 2023-01&lt;/td&gt;
@@ -99,7 +103,7 @@ by considering post-wildfire land-surface conditions in the Weather Research and
     </item>
     
     <item>
-      <title>Coupling snow sub-grid variability model into a land-surface model</title>
+      <title>Considering snow spatial distribution sub-grid variability in land-surface models</title>
       <link>https://mountain-hydrology.github.io/project/nrc/</link>
       <pubDate>Wed, 01 Aug 2018 10:56:59 -0600</pubDate>
       <guid>https://mountain-hydrology.github.io/project/nrc/</guid>
@@ -111,6 +115,10 @@ by considering post-wildfire land-surface conditions in the Weather Research and
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;National Academies of Sciences, Engineering, and Medicine&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Period&lt;/td&gt;
 &lt;td&gt;2018-08 to 2020-02&lt;/td&gt;
