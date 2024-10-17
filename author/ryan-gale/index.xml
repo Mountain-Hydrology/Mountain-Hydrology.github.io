@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Gale | Mountain Hydrology Research Group</title>
+    <link>https://mountain-hydrology.github.io/author/ryan-gale/</link>
+      <atom:link href="https://mountain-hydrology.github.io/author/ryan-gale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Gale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mountain-hydrology.github.io/author/ryan-gale/avatar_hu357ad5880c8bbf81827e175953c96cbb_101710_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ryan Gale</title>
+      <link>https://mountain-hydrology.github.io/author/ryan-gale/</link>
+    </image>
+    
+  </channel>
+</rss>
